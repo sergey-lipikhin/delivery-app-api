@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Apple iPhone 7 32GB Black",
+    "storeId": 1,
+    "slug": "apple-iphone-7-32gb-black",
+    "price": 400,
+    "screen": "4.7' IPS",
+    "capacity": "32GB",
+    "ram": "2GB",
+    "image": "img/goods/apple-iphone-7-32gb-black.jpg"
+  },
+  {
+    "name": "Samsung Galaxy S21 Ultra",
+    "storeId": 1,
+    "slug": "samsung-galaxy-s21-ultra",
+    "price": 1199,
+    "screen": "6.8' Dynamic AMOLED 2X",
+    "capacity": "128GB",
+    "ram": "12GB",
+    "image": "img/goods/samsung-galaxy-s21-ultra.jpg"
+  },
+  {
+    "name": "Google Pixel 6 Pro",
+    "storeId": 1,
+    "slug": "google-pixel-6-pro",
+    "price": 999,
+    "screen": "6.7' OLED",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "image": "img/goods/google-pixel-6-pro.jpg"
+  },
+  {
+    "name": "OnePlus 9",
+    "storeId": 1,
+    "slug": "oneplus-9",
+    "price": 799,
+    "screen": "6.55' Fluid AMOLED",
+    "capacity": "128GB",
+    "ram": "8GB",
+    "image": "img/goods/oneplus-9.jpg"
+  },
+  {
+    "name": "Xiaomi Mi 11 Pro",
+    "storeId": 1,
+    "slug": "xiaomi-mi-11-pro",
+    "price": 899,
+    "screen": "6.81' AMOLED",
+    "capacity": "256GB",
+    "ram": "12GB",
+    "image": "img/goods/xiaomi-mi-11-pro.jpg"
+  },
+  {
+    "name": "iPhone SE (2022)",
+    "storeId": 1,
+    "slug": "iphone-se-2022",
+    "price": 499,
+    "screen": "4.7' Retina HD",
+    "capacity": "128GB",
+    "ram": "4GB",
+    "image": "img/goods/iphone-se-2022.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Note 20",
+    "storeId": 1,
+    "slug": "samsung-galaxy-note-20",
+    "price": 999,
+    "screen": "6.7' Super AMOLED",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "image": "img/goods/samsung-galaxy-note-20.jpg"
+  },
+  {
+    "name": "Google Pixel 5a",
+    "storeId": 1,
+    "slug": "google-pixel-5a",
+    "price": 499,
+    "screen": "6.34' OLED",
+    "capacity": "128GB",
+    "ram": "6GB",
+    "image": "img/goods/google-pixel-5a.jpg"
+  },
+  {
+    "name": "OnePlus Nord 2",
+    "storeId": 1,
+    "slug": "oneplus-nord-2",
+    "price": 399,
+    "screen": "6.43' Fluid AMOLED",
+    "capacity": "128GB",
+    "ram": "8GB",
+    "image": "img/goods/oneplus-nord-2.jpg"
+  },
+  {
+    "name": "Xiaomi Redmi Note 10 Pro",
+    "storeId": 1,
+    "slug": "xiaomi-redmi-note-10-pro",
+    "price": 299,
+    "screen": "6.67' Super AMOLED",
+    "capacity": "64GB",
+    "ram": "6GB",
+    "image": "img/goods/xiaomi-redmi-note-10-pro.jpg"
+  }
+]

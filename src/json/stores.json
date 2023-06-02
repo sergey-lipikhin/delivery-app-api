@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Phone Store",
+    "slug": "phone-store",
+    "link": "https://www.phonestore.com",
+    "phrase": "Quality smartphones at affordable prices",
+    "image": "https://example.com/phone-store.jpg"
+  },
+  {
+    "name": "Tablet Shop",
+    "slug": "tablet-shop",
+    "link": "https://www.tabletshop.com",
+    "phrase": "Explore the world with our premium tablets",
+    "image": "https://example.com/tablet-shop.jpg"
+  },
+  {
+    "name": "Accessory World",
+    "slug": "accessory-world",
+    "link": "https://www.accessoryworld.com",
+    "phrase": "Enhance your gadgets with our top-quality accessories",
+    "image": "https://example.com/accessory-world.jpg"
+  }
+]
