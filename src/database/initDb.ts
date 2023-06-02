@@ -22,5 +22,3 @@ export const initDb = async() => {
 
   return sequelize;
 };
-
-initDb();
